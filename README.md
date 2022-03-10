@@ -1,7 +1,7 @@
 # Landing-Page-Example
 
 ## Description
-This webpage is based on the website called All Plants. It is essentially a landing page that has buttons navagating to different sections of the page. The css framwork bootstrap is used to make the page more responsive, and to add features to the webpage like the carousel/slideshow.
+This webpage is based on the website called All Plants. It is essentially a landing page that has buttons navigating to different sections of the page. The CSS framework bootstrap is used to make the page more responsive, and to add features to the webpage like the carousel/slideshow.
 
 ## Getting Started
 
